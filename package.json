@@ -1,0 +1,11 @@
+{
+  "name": "node-first-sample",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/js/main.js"
+  },
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
